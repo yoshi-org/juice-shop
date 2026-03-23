@@ -41,7 +41,7 @@
     "codemirror-solidity": "^0.2.5",
     "ethers": "^5.7.2",
     "file-saver": "^2.0.2",
-    "flag-icons": "^6.9.2",
+    "flag-icons": "^7.5.0",
     "font-mfizz": "^2.4.1",
     "jwt-decode": "^2.2.0",
     "lodash-es": "^4.17.21",
