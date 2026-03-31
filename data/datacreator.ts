@@ -396,8 +396,8 @@ async function createProducts () {
         })
           .then(async ({ id }: { id: number }) =>
             await Promise.all(
-              reviews.map(({ text, author }) =>
-                reviewsCollection.insert({
+              reviews.map(async ({ text, author }) =>
+                await reviewsCollection.insert({
                   message: text,
                   author: datacache.users[author].email,
                   product: id,
@@ -719,8 +719,8 @@ async function createOrders () {
   ]
 
   return await Promise.all(
-    orders.map(({ orderId, email, totalPrice, bonus, products, eta, delivered }) =>
-      ordersCollection.insert({
+    orders.map(async ({ orderId, email, totalPrice, bonus, products, eta, delivered }) =>
+      await ordersCollection.insert({
         orderId,
         email,
         totalPrice,
