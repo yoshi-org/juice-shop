@@ -74,7 +74,7 @@
     "@types/socket.io-client": "^1.4.33",
     "angular-eslint": "^20.1.0",
     "eslint": "^9.33.0",
-    "jasmine": "^5.1.0",
+    "jasmine": "^6.1.0",
     "jasmine-core": "~5.9.0",
     "jasmine-spec-reporter": "~7.0.0",
     "karma": "~6.4.0",
