@@ -24,7 +24,7 @@
     "@angular/forms": "^20.1.0",
     "@angular/material": "^20.1.0",
     "@angular/platform-browser": "^20.1.0",
-    "@angular/platform-browser-dynamic": "^20.1.0",
+    "@angular/platform-browser-dynamic": "^21.2.7",
     "@angular/router": "^20.1.0",
     "@ctrl/ngx-codemirror": "^6.1.0",
     "@cyclonedx/webpack-plugin": "^5.0.0",
