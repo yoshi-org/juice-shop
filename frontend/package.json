@@ -63,7 +63,7 @@
     "zone.js": "~0.15.0"
   },
   "devDependencies": {
-    "@angular/language-service": "^20.1.0",
+    "@angular/language-service": "^21.2.10",
     "@eslint/js": "9.33.0",
     "@types/express-serve-static-core": "^4.17.9",
     "@types/file-saver": "^2.0.1",
