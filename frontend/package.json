@@ -73,7 +73,7 @@
     "@types/node": "^20.17.19",
     "@types/socket.io-client": "^1.4.33",
     "angular-eslint": "^20.1.0",
-    "eslint": "^9.33.0",
+    "eslint": "^10.2.1",
     "jasmine": "^5.1.0",
     "jasmine-core": "~5.9.0",
     "jasmine-spec-reporter": "~7.0.0",
