@@ -19,7 +19,7 @@
     "@angular/cli": "^20.1.6",
     "@angular/common": "^20.1.0",
     "@angular/compiler": "^20.1.0",
-    "@angular/compiler-cli": "^20.1.0",
+    "@angular/compiler-cli": "^22.0.4",
     "@angular/core": "^20.1.0",
     "@angular/forms": "^20.1.0",
     "@angular/material": "^20.1.0",
