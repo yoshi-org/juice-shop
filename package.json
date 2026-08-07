@@ -146,7 +146,7 @@
     "glob": "^10.4.5",
     "graceful-fs": "^4.2.11",
     "grunt": "^1.6.1",
-    "grunt-contrib-compress": "^1.6.0",
+    "grunt-contrib-compress": "^2.0.0",
     "grunt-replace-json": "^0.1.0",
     "hashids": "^2.3.0",
     "hbs": "^4.2.0",
