@@ -141,7 +141,7 @@
     "file-type": "^16.5.4",
     "filesniffer": "^1.0.3",
     "finale-rest": "^1.2.2",
-    "fs-extra": "^9.1.0",
+    "fs-extra": "^11.4.1",
     "fuzzball": "^1.4.0",
     "glob": "^10.4.5",
     "graceful-fs": "^4.2.11",
